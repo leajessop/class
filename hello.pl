@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
-#Author - Vijay Nagarajan PhD
+#Author - Lea Jessop (after Vijay)
 #print a string - hello vijay
-print "Hello Vijay \n";
+print "Hello yourname \n";
 
 #variable
 $DNA = 'ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
